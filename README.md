@@ -2,7 +2,7 @@
 ===========
 
 **Golden Bible  CMS** [Open Source then — a lot of comments for programmers in source code; 512 **lines of code for file maximum**, unique identities from unique identity function, non-numeral identities]
-one translation Bible {with install any translation from [eBible.org](http://ebible.org), install from txt - for SYN translation}  
+one translation Bible {with install **any translation** from [eBible.org](http://ebible.org) [en-US - ASV, en-GB - KJV and etc.], install from txt - for SYN ru-RU translation}  
 **Bible reading**: navigation on the Bible; copy link {kind of http://golden-bible.org/B:Gen:I:1}; Roman numerals for chapters; texted chapter number for opened chapter{kind of: first chapter, second chapter…}; random verse  
 **Prayers**  
 **add to favorites**: book, chapter or verse; show top readable and favorable things.  
