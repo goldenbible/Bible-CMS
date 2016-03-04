@@ -1,4 +1,3 @@
-===========
  Bible-CMS
 ===========
 
@@ -21,7 +20,6 @@ if it will be organization they can track their events there or anything else.]
 Thank You Notes on bottom of the page.
 feedback;
 
---------------
 Administration
 --------------
 user roles: moderation{timetable, prayers, holidays, org. info, contacts}, administration{all};
@@ -34,7 +32,6 @@ visibility of socials;
 switching: between roman and common numeral for chapters; import number texting module for language; switching Thank You Notes.
 reading timetable; Christian holidays; prayers editing;
 
------------------
 Installation page
 -----------------
 [first start]
@@ -51,22 +48,21 @@ MySQL settings, pre installation page,
 // each translation should be different installation process from files GBF, XML or txt;
 installation.
 
---------
 Features
 --------
-Reading without numbers
+**Reading without numbers**  
 If it will be not out of budget can you, please, add reading mode "Bible without numbers" and make it main mode. If people will wanna read with numbers they will can turn mode with numbers.
 
-Lite
+**Lite**  
 Some people has a slow internet connection. I know it will be out of budget...
 That's why I'm thinking to put it here or let it go to Open Source developing of Bible CMS.
 Super lite Bible with weight 50KB for one page and with inline CSS.
 
-Copyright
+**Copyright**  
 Bible CMS hosters can upload copyrighted Bibles in this way they should add copyright information and maybe Bible info.
 Copyright information Bible CMS should show in the bottom of chapter. Link to Bible info should be in under chapter and right justified.
 
-Charity banners
+**Charity banners**  
 As you noticed the project has only one banner now - it's Red Cross banner.
 I wanna make other banners for charity organizations in style of Google Ads.
 Because not a lot people will wanna go to page for charity organizations and every organization will have a chance to get donating.
