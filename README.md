@@ -14,9 +14,12 @@ Registration: simple reg., + through socials;
 
 Log In, Log Out;
 **Settings**: change: email, password, language 
-It's neater to define user's language through `$_SERVER['HTTP_ACCEPT_LANGUAGE']`. Is it possible that it can be failed? In this case we can try ip to country function.
-`// pseudo `
-`if [SERVER['HTTP_ACCEPT_LANGUAGE'] != '']   set_language[SERVER['HTTP_ACCEPT_LANGUAGE']]; else   set_language[get_language[ip_to_country[SERVER['REMOTE_ADDR'] ]]];`
+It's neater to define user's language through `$_SERVER['HTTP_ACCEPT_LANGUAGE']`. Is it possible that it can be failed? In this case we can try ip to country function.  
+`// pseudo `  
+`if [SERVER['HTTP_ACCEPT_LANGUAGE'] != '']  
+  set_language[SERVER['HTTP_ACCEPT_LANGUAGE']];  
+else  
+  set_language[get_language[ip_to_country[SERVER['REMOTE_ADDR'] ]]];`  
 [, change translation to extra? — multi language countries]
 IP to country. [when country don’t defined - switch to main translation]
 **mini-blog** posts with text, pictures or videos.
