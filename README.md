@@ -2,10 +2,10 @@
  Bible-CMS
 ===========
 
-Golden Bible  CMS [Open Source then? — a lot of comments for programmers in source code; 512 lines of code for file maximum, unique identities from unique identity function, non-numeral identities]
+Golden Bible  CMS [Open Source then — a lot of comments for programmers in source code; 512 lines of code for file maximum, unique identities from unique identity function, non-numeral identities]
 one translation Bible {with install any translation from ebible.org, install from txt - for SNDL translation}
 Bible reading: navigation on the Bible; copy link {kind of http://golden-bible.org/B:Gen:I:1}; Roman numerals for chapters; texted chapter number for opened chapter{kind of: first chapter, second chapter…}; random verse
-Prayers.
+Prayers
 add to favorites: book, chapter or verse; show top readable and favorable things.
 social things for books, chapters and verses: Facebook, Google+, VK, twitter, tumblr, LJ… {All from YouTube social stuff?=}
 Charity banners or links: Red Cross banner and other charity organizations links — language depending {e.g. en-US, en-GB, ru-RU}. 
@@ -20,7 +20,10 @@ if it will be organization they can track their events there or anything else.]
 [mini-forum? private msgs]
 Thank You Notes on bottom of the page.
 feedback;
-Administration editing:
+
+--------------
+Administration
+--------------
 user roles: moderation{timetable, prayers, holidays, org. info, contacts}, administration{all};
 charity {Red Cross and other organizations}, footer, Powered by Golden Bible CMS switching.
 visible languages;
@@ -31,7 +34,10 @@ visibility of socials;
 switching: between roman and common numeral for chapters; import number texting module for language; switching Thank You Notes.
 reading timetable; Christian holidays; prayers editing;
 
-Installation page: [first start]
+-----------------
+Installation page
+-----------------
+[first start]
 steps: language 
 or add other language [CSV? dir: LTR or RTL], // installation should parse admin defined language file and make new COUNTRY_language.php file.
 choose visible languages for users;
