@@ -75,5 +75,5 @@ As you noticed the project has only one banner now - it's Red Cross.
 It will be good to make other banners for charity organizations in style of Google Ads.
 Because not a lot people will wanna go to page for charity organizations and every organization will have a chance to get a donating.
 
-**Social Networking**
+**Social Networking**  
 All is said in subject. It's friends, private messages and other futures of that.
