@@ -59,7 +59,7 @@ installation.
 
 Features
 --------
-**Reading without numbers**  
+**Reading Without Numbers**  
 If it will be not out of budget can you, please, add reading mode "Bible without numbers" and make it main mode. If people will wanna read with numbers they will can turn mode with numbers.
 
 **Lite**  
@@ -70,7 +70,10 @@ Super Lite Bible with weight 50KB for one page and with inline CSS.
 Bible CMS hosters can upload copyrighted Bibles in this way they should add copyright information and maybe Bible info.
 Copyright information Bible CMS should show in the bottom of a chapter. Link to Bible info should be in under chapter and right justified.
 
-**Charity banners**  
-As you noticed the project has only one banner now - it's Red Cross banner.
+**Charity Links**  
+As you noticed the project has only one banner now - it's Red Cross.
 It will be good to make other banners for charity organizations in style of Google Ads.
 Because not a lot people will wanna go to page for charity organizations and every organization will have a chance to get a donating.
+
+**Social Networking**
+All is said in subject. It's friends, private messages and other futures of that.
