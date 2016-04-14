@@ -1,6 +1,6 @@
  Bible-CMS
 ===========
-
+           
 **Golden Bible  CMS** [Open Source then — a lot of comments for programmers in source code; 512 **lines of code for file maximum**, unique identities from unique identity function, non-numeral identities]
 one translation Bible {with install **any translation** from [eBible.org](http://ebible.org) [en-US - ASV, en-GB - KJV and etc.], install from txt - for SYN ru-RU translation}  
 **Bible reading**: navigation on the Bible; copy link {kind of http://golden-bible.org/B:Gen:I:1}; Roman numerals for chapters; texted chapter number for opened chapter{kind of: first chapter, second chapter…}; random verse  
@@ -10,8 +10,8 @@ one translation Bible {with install **any translation** from [eBible.org](http:/
 **Charity banners** or **links**: Red Cross banner and other charity organizations links — language depending {e.g. en-US, en-GB, ru-RU}.  
 if defined in installation country has no charity info take random charity organization from base.
 Registration: simple reg., + through socials;
-
-
+           
+           
 Log In, Log Out;  
 **Settings**: change: email, password, language  
 It's neater to define user's language through `$_SERVER['HTTP_ACCEPT_LANGUAGE']`. Is it possible that it can be failed? In this case we can try ip to country function.  
@@ -56,25 +56,25 @@ set contacts info // opt.
 MySQL settings, pre installation page,  
 // each translation should be different installation process from files GBF, XML or txt;  
 installation.  
-
+           
 Features
 --------
 **Reading Without Numbers**  
 If it will be not out of budget can you, please, add reading mode "Bible without numbers" and make it main mode. If people will wanna read with numbers they will can turn mode with numbers.
-
+                      
 **Lite**  
 Some people has a slow internet connection. And it will be good if they will have fast loading Bible.
 Super Lite Bible with weight 50KB for one page and with inline CSS.
-
+                      
 **Copyright**  
 Bible CMS hosters can upload copyrighted Bibles in this way they should add copyright information and maybe Bible info.
 Copyright information Bible CMS should show in the bottom of a chapter. Link to Bible info should be in under chapter and right justified.
-
+           
 **Charity Links**  
 As you noticed the project has only one banner now - it's Red Cross.
 It will be good to make other banners for charity organizations in style of Google Ads.
 Because not a lot people will wanna go to page for charity organizations and every organization will have a chance to get a donating.
-
+                      
 **Social Networking**  
 All is said in subject. It's friends, private messages and other futures of that.
 
