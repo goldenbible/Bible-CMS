@@ -81,3 +81,5 @@ All is said in subject. It's friends, private messages and other futures of that
 LICENSE
 =======
 This project has MIT license, which means you are free to take these sources and use it in any purpose or make you own Bible CMS.
+                                                                                                              
+                                                                                                              
