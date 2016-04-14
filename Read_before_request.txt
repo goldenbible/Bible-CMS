@@ -1,0 +1,5 @@
+This repo already for court case. Do not commit to this repo 
+if you're not a boontech - freelancer which lied and didn't give sources of Bible CMS.
+
+
+To commit new changes use this repo: [BibleCMS](https://github.com/goldenbible/BibleCMS)
