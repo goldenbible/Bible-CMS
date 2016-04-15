@@ -3,4 +3,4 @@ if you're not a booninfotech - freelancer which lied and didn't give workable so
 
 
 To commit new changes use this repo: [BibleCMS](https://github.com/goldenbible/BibleCMS)
-To look other commits from booninfotech visit this page: https://github.com/Golden-Bible-Programmers
+To look other commits from booninfotech visit this page:  [Bible-CMS-Programmers](https://github.com/Golden-Bible-Programmers)
